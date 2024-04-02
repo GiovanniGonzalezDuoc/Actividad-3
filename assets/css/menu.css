@@ -1,0 +1,16 @@
+.card-body {
+    text-align: center;
+}
+.card-title {
+    color: orange;
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80vh;
+    height: 80vh;
+}
+a{
+    text-decoration: none;
+}
